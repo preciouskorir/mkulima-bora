@@ -1,0 +1,30 @@
+body {
+    font-family: 'Arial',sans-serif;
+    margin: 10;
+    padding: 10;
+    background-color: #65eb12;
+}
+header {
+   background-color: #9fe28e;
+    color: #fff
+    text-align: center;
+    padding: 1rem;
+}
+main{
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    background-attachment: fixed;
+    background-image: url("C:\Users\Admin\.vscode\agric website\images\images.jpeg");
+    background-size: cover;
+    background position: center;
+    background-repeat:no-repeat;
+    
+}
+footer{
+    text-align: center;
+    padding: 0rem;
+background-color: #333;
+color: #fff;
+}
